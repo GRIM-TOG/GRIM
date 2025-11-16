@@ -1,4 +1,4 @@
-# GRIM (Grasp Replay and Inference Module)
+# GRIM (Grasp Realignment via Iterative Matching)
 
 ## Overview
 This project implements a memory system for reinforcement learning agents, focusing on efficient memory creation, storage, and utilization for improved learning performance.
